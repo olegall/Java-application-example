@@ -1,0 +1,18 @@
+
+
+каталог а
+файл 1.txt
+         *
+         *
+         ********************
+         *                  *
+         *                  *
+         *                  *
+         каталог2	    каталог3
+	 файл 2.txt         файл 3.txt
+		            файл 4.txt
+
+
+-------------------------------------------
+http://www.realcoding.net/article/view/1322
+http://stackoverflow.com/questions/5694385/getting-the-filenames-of-all-files-in-a-folder
